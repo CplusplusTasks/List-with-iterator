@@ -1,1 +1,0 @@
-/home/eugene/Desktop/c++/list/CMakeFiles/list_testing.dir
